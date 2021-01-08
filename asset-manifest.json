@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/RoboFriends-Demo/static/css/main.03c5ac51.chunk.css",
-    "main.js": "/RoboFriends-Demo/static/js/main.c1c1a64b.chunk.js",
-    "main.js.map": "/RoboFriends-Demo/static/js/main.c1c1a64b.chunk.js.map",
+    "main.js": "/RoboFriends-Demo/static/js/main.757a03c2.chunk.js",
+    "main.js.map": "/RoboFriends-Demo/static/js/main.757a03c2.chunk.js.map",
     "runtime-main.js": "/RoboFriends-Demo/static/js/runtime-main.49e47502.js",
     "runtime-main.js.map": "/RoboFriends-Demo/static/js/runtime-main.49e47502.js.map",
     "static/css/2.31461e4f.chunk.css": "/RoboFriends-Demo/static/css/2.31461e4f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.a6c4d654.chunk.js",
     "static/css/main.03c5ac51.chunk.css",
-    "static/js/main.c1c1a64b.chunk.js"
+    "static/js/main.757a03c2.chunk.js"
   ]
 }
